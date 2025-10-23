@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Identidade Visual",
+  "description": "Um Gerador de Identidade Visual completo. Os usuários descrevem a missão de sua empresa e o aplicativo gera um painel 'Manual da Marca' contendo: um logo principal, marcas secundárias, uma paleta de 5 cores hexadecimais com notas de uso e pares de fontes do Google sugeridos para cabeçalhos e corpo de texto.",
+  "requestFramePermissions": []
+}
